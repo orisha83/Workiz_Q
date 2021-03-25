@@ -1,4 +1,4 @@
-const redisDAL = require('../DALs/redisDAL');
+const redisDAL = require('../DALs/PQDAL');
 
 const getNextMsg = function(id)
 {
